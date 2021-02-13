@@ -10,8 +10,12 @@ DOCTYPE html>
     <h>my 2nd ever web site for my fast site</h>
     <h3>ami akon akta noton web site open korbo</h3>
     <h2>amder onk gola web site korta hobagit commit -m "first commit" </h2>
+    <p>ami kono kico kai nai amar jono kico kabar cai</p>
+    <p>amder aj onk kaj aca ki kora sov kaj sas korbo </p>git 
 </head>
 <body>
     
 </body>
+
+
 </html>
